@@ -25,7 +25,7 @@ title: A Digital Map of Harlem
 tagline: Project by Emma Meskin
 # description appears in meta tags and other locations
 # this description might appear in search result lists, keep around 160 characters max
-description: "CollectionBuilder-Sheets is a template for creating simple digital exhibit websites by loading collection metadata directly from a CSV, designed for teaching digital library skills."
+description: An interactive digital map of Harlem. This map highlights Harlem's rich history, vibrant culture, and the places that represent it. The landmakrs presented tell the story of the longstanding neighborhood.
 # creator of the digital collection, to appear in meta tags; we typically use our GitHub usernames but feel free to just use your name
 author: CollectionBuilder
 
